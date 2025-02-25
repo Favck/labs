@@ -4,7 +4,7 @@ In the work it is necessary to calculate the value (i) of the function y = f(x).
 ![image](https://github.com/user-attachments/assets/753de495-2320-469e-b928-12069e55695c)
 
 
-To run on linux, use the command:
+# To run on linux, use the command:
 ```bash
 gcc lab5.c -o program -lm
 ```
