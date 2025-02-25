@@ -1,2 +1,2 @@
-# labs
-This repository will contain laboratory work in C.
+# Labs for programming discipline on C firs year.
+
