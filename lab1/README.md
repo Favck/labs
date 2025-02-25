@@ -3,7 +3,7 @@ It is necessary to solve the problem of calculating and displaying the values of
 y= (tgx+3,73)/4 and  z= (7y+3sin a+√(b^2 +19))/(7y+ √(b^2 +19)+2)
 
 # To run on linux, use the command:
-## 'gcc lab1.c -o a -lm'
+''' gcc lab1.c -o a -lm
 It is compilate
 ## './a' 
 it is start
