@@ -1,2 +1,2 @@
-# Labs for programming discipline on C firs year.
+# Labs for programming discipline on C firs course.
 
