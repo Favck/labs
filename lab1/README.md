@@ -4,7 +4,7 @@ y= (tgx+3,73)/4 and  z= (7y+3sin a+√(b^2 +19))/(7y+ √(b^2 +19)+2)
 
 # To run on linux, use the command:
 ```bash
-gcc 1.c -o program -lm
+gcc lab1.c -o program -lm
 ```
 ```bash
 ./program
