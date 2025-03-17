@@ -3,7 +3,7 @@ There is a text consisting of n(n <= 20) lines, which is entered from the keyboa
 
 # To run on linux, use the command:
 ```bash
-gcc lab9.c lab9_functions.c -o program -lm
+gcc lab10.c lab10_functions.c -o program -lm
 ```
 ```bash
 ./program
